@@ -1,4 +1,3 @@
-# переменная screen - экран
 def intro():
     font = pygame.font.Font(None, 35)
     text = font.render('Об игре', 1, 'white')
